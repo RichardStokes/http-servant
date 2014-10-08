@@ -1,4 +1,4 @@
-ruby_http_server
+Http-Servant
 ================
 
-Simple HTTP server in ruby
+Just a simple HTTP server in Ruby for my own curiosity :)
